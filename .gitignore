@@ -19,3 +19,4 @@ replay_pid*
 bin/
 /.settings
 /.classpath
+/.project
